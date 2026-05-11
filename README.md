@@ -115,20 +115,6 @@ await client.sendCommand(vehId, EngineAction.stop);
 await client.sendCommand(vehId, EngineAction.restore);
 ```
 
-## Custom endpoints (self-hosted)
-
-```dart
-NeptrackClient(
-  token:   'npt_...',
-  baseUrl: 'https://your-instance.example.com/rest/v1',
-);
-
-NeptrackStreamClient(
-  token: 'npt_...',
-  url:   'wss://your-instance.example.com',
-);
-```
-
 ## Resources
 
 - Website & dashboard — [neptrack.com](https://neptrack.com)
