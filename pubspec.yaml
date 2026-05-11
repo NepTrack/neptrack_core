@@ -1,6 +1,6 @@
 name: neptrack_core
 description: Pure Dart SDK for the NepTrack REST API — vehicles, history, reports, alarms, motion logs, geofences and engine commands.
-version: 0.2.0
+version: 0.2.1
 homepage: https://neptrack.com
 repository: https://github.com/NepTrack/neptrack_core
 

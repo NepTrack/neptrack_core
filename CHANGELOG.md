@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.1 — 2026-05-11
+
+### Changed
+- README: removed the custom-endpoints / self-hosted section (NepTrack is
+  not offered self-hosted).
+
 ## 0.2.0 — 2026-05-11
 
 ### Added
