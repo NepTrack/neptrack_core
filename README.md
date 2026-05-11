@@ -10,7 +10,7 @@ No Flutter dependencies — works in Flutter apps, Dart server processes, and CL
 
 ```yaml
 dependencies:
-  neptrack_core: ^0.2.0
+  neptrack_core: ^0.2.1
 ```
 
 ## Authentication
